@@ -1,1 +1,2 @@
-print "hello world"
+--第一个lua程序
+print("hello world")
