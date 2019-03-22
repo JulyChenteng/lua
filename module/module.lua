@@ -10,7 +10,7 @@ end
 local function func2()
     io.write("这是一个私有函数\n")
 end
-
+dsf 
 function module.func3()
     func2()
 end
